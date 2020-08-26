@@ -1,12 +1,12 @@
 <template>
     <div>
-        
+        nav-header
     </div>
 </template>
 
 <script>
 export default {
-    name:'nav-header',
+    name: 'nav-header',
     props: {},
     data() {
         return {};
@@ -16,7 +16,7 @@ export default {
     mounted() {},
     watch: {},
     methods: {},
-    components: {},
+    components: {}
 };
 </script>
 <style scoped lang="scss">
